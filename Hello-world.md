@@ -1,7 +1,7 @@
 # Hello, world!
-## About Me-
-  **Name:** Gildong Hong-
-  **Major:** Composition
+## About Me
+  -**Name:** Gildong Hong
+  -**Major:** Composition
 ## A Piece of Music I Love
   *Symphony No. 5* by Ludwig van Beethoven
 ## Our Course Database
